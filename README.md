@@ -1,5 +1,5 @@
 
-# How to use spatie/laravel-tags with Livewire
+# Use spatie/laravel-tags with Livewire
 
 
 For more information on the package, please refer to the [Spatie documentation](https://spatie.be/docs/laravel-tags), as below explanation for those already familiar with it.
