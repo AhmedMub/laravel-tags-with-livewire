@@ -30,6 +30,7 @@ class NewsItem extends Model
 <input wire:model='name.ar' type="text" />
 
 // to use livewire validation
+public $name;
 protected $rules = [
         'name.en' => ['required', 'string'],
         'name.ar' => ['required', 'string'],
