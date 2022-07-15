@@ -4,8 +4,6 @@
 
 For more information on the package, please refer to the [Spatie documentation](https://spatie.be/docs/laravel-tags), as below explanation for those already familiar with it.
 
-In order to provide the explanations below, I spent many hours researching how to use the package with Livewire, so if it helped you, please give it a star. If not, please let me know how to improve it.
-
 After making an Eloquent model taggable by adding the \Spatie\Tags\HasTags trait to it::
 
 ```php
